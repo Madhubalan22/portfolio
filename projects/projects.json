@@ -1,0 +1,45 @@
+[
+  
+  
+  {
+    "name": "Crypto Tracker",
+    "desc": "Crypto Tracker built using ReactJS and Chakra UI. Supports dark mode. API used coingecko.",
+    "image": "cryptotracker",
+    "category": "mern",
+    "links": {
+      "view": "https://crypto-tracker-react-project.netlify.app/",
+      "code": "https://github.com/jigar-sable/React-Projects/tree/main/crypto-tracker"
+    }
+  },
+  {
+    "name": "Hulu Website",
+    "desc": "Hulu website built using NextJS and tailwindCSS. API used TMDB, deployed on vercel.",
+    "image": "hulu",
+    "category": "mern",
+    "links": {
+      "view": "https://hulu-clone-jigar-sable.vercel.app/",
+      "code": "https://github.com/jigar-sable/React-Projects/tree/main/hulu-clone"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/jigar-sable/Portfolio-Website"
+    }
+  },
+  
+  {
+    "name": "PHP Banking Website",
+    "desc": "Basic Banking System based on PHP and MySQL database. Made with HTML, CSS, JavaScript and backend with PHP.",
+    "image": "tsfbank",
+    "category": "lamp",
+    "links": {
+      "view": "https://tsfbank.rf.gd",
+      "code": "https://github.com/jigar-sable/TSF-Bank"
+    }
+  }
+]
